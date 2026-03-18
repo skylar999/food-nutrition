@@ -1,0 +1,16 @@
+# Основные библиотеки для машинного обучения
+numpy==1.19.5
+pandas==1.2.4
+scikit-learn==0.23.1
+tqdm==4.46.1
+joblib==1.0.1
+
+# Для Jupyter/ipykernel
+ipykernel==5.5.5
+ipython==7.22.0
+jupyter==1.0.0
+notebook==6.4.0
+
+# Для совместимости scikit-learn
+scipy==1.6.3
+threadpool
